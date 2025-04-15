@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Luiz Pessol
 
 🚀 Especialista em Cloud, DevSecOps e Segurança da Informação  
-🎯 Gerente de Arquitetura Cloud na Atos | Fundador da CloudSecure Labs  
+🎯 Gerente de Arquitetura, DevSecOps e Data Engineering na Atos | Fundador da CloudSecure Labs  
 ☕ Entusiasta de cafés especiais e ciclismo  
 
 ## 🛠️ Minhas Skills Principais
