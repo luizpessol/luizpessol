@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luiz Pessol
 
-<!--
-**luizpessol/luizpessol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Especialista em Cloud, DevSecOps e Segurança da Informação  
+🎯 Gerente de Arquitetura Cloud na Atos | Fundador da CloudSecure Labs  
+☕ Entusiasta de cafés especiais e ciclismo  
 
-Here are some ideas to get you started:
+## 🛠️ Minhas Skills Principais
+- ☁️ Cloud: AWS | Azure | GCP
+- 🔐 Segurança: Trend Micro, Microsoft Defender, Wazuh, Sentinel, pfSense, DevSecOps, Cloud Security, Network
+- 🧰 Ferramentas: Terraform | Ansible | Docker | Kubernetes | GitHub Actions 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projetos em Destaque
+- [`cve-lambda-notifier-telegram`](https://github.com/luizpessol/cve-lambda-notifier-telegram): Notificador de CVEs via AWS Lambda
+
+## 📫 Como me encontrar
+- Blog: [luizpessol.com.br](https://luizpessol.com.br)
+- LinkedIn: [linkedin.com/in/luizpessol](https://linkedin.com/in/luizpessol)
+- Youtube: ☕ #CoffeeNight às quartas
+
+> "Nem tudo que brilha é genial. Às vezes é só gambiarra com glitter."
+
+![GitHub followers](https://img.shields.io/github/followers/luizpessol?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/ID_DO_CANAL?style=social)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpessol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Luiz Pessol GitHub stats](https://github-readme-stats.vercel.app/api?username=luizpessol&show_icons=true&theme=radical)
+
