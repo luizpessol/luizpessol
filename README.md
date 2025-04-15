@@ -20,7 +20,7 @@
 > "Nem tudo que brilha é genial. Às vezes é só gambiarra com glitter."
 
 ![GitHub followers](https://img.shields.io/github/followers/luizpessol?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/ID_DO_CANAL?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCH1lMabTo2i1ch-EhiRf44A?style=social)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpessol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
